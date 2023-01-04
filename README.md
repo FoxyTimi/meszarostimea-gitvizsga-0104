@@ -14,4 +14,5 @@ git checkout main - main ágra visszaváltás
 git add . - README.md fájl módosítása után
 git commit -m - README.md fájl módosításának/befejezésének leírása
 git remote add origin - 
+git branch -M -
 git push -u - project feltöltése
