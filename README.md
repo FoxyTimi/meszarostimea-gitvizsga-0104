@@ -10,9 +10,7 @@ git add . - app.js fájl módosítása után
 git commit -m - app.js fájl kiegészítésének leírása
 git add . - style.css fájl módosítása után
 git commit -m - style.css fájl módosításának leírása
-git checkout main - main ágra visszaváltás
 git add . - README.md fájl módosítása után
 git commit -m - README.md fájl módosításának/befejezésének leírása
 git remote add origin - 
-git branch -M -
 git push -u - project feltöltése
